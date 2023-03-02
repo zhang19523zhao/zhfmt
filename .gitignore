@@ -1,0 +1,5 @@
+.idea
+/protected/runtime/*
+/*.buildpath
+/.settings
+/downloads/*
