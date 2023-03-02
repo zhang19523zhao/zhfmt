@@ -1,4 +1,5 @@
 .idea
+.gitignore
 /protected/runtime/*
 /*.buildpath
 /.settings
