@@ -8,7 +8,7 @@ import (
 
 // 判断是否有中文标点符号
 func Ispunc(v rune) bool {
-	punctuations := "，。！；’“）（"
+	punctuations := "，。！；’、“）（"
 	for _, p := range punctuations {
 		if p == v {
 			return true
